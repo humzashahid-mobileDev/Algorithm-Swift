@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<playground version='6.0' target-platform='ios' buildActiveScheme='true' importAppTypes='true'>
+    <pages>
+        <page name='Palimdrome'/>
+        <page name='NoDublicate'/>
+        <page name='TwoStringContainSameLetter'/>
+        <page name='StringContainSubString'/>
+        <page name='timesofCharInString'/>
+        <page name='RemoveDublicateLetterFromString'/>
+        <page name='RemoveWhiteSpaceFromString'/>
+        <page name='StringISRotated'/>
+        <page name='Panagram'/>
+        <page name='ReturnVowelAndConstants'/>
+        <page name='PowerFuncation'/>
+        <page name='PrimeNumber'/>
+        <page name='SquareRoot'/>
+        <page name='CollectionExtension'/>
+        <page name='SortStringArrayByLength'/>
+        <page name='FindtheMissingNumbers'/>
+    </pages>
+</playground>
